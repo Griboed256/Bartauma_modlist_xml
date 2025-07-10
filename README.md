@@ -6,7 +6,7 @@ Lua Mod pack for friends play
 
 Инструкция по установке модов на ваш клиент:
 1. Подпишитесь на все работы этой коллекции
-2. Скачайте список модов: Ссылка [github.com]
+2. Скачайте список модов: Lua_mod-pack_2-6.xml 
 3. Скопируйте список модов в:
 \Steam\steamapps\common\Barotrauma\ModLists
 4. Откройте игру
