@@ -1,86 +1,103 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<mods name="Lua_mod-pack_Upd_2-6">
-  <Vanilla />
-  <Workshop name="Lua For Barotrauma" id="2559634234" />
-  <Workshop name="CsForBarotrauma" id="2795927223" />
-  <Workshop name="Item IO Framework" id="2950383008" />
-  <Workshop name="Hungry Europans" id="2954998725" />
-  <Workshop name="DynamicEuropa" id="2532991202" />
-  <Workshop name="DynamicEuropa - Large Map Size Patch" id="3233224136" />
-  <Workshop name="DynamicEuropa - Stations From Beyond Outpost Pack" id="2907491279" />
-  <Workshop name="Baroverhaul - Dynamic Europa Patch" id="3448276676" />
-  <Workshop name="Baroverhaul - Dynamic Europa SFB Patch" id="3449453992" />
-  <Workshop name="ADV Beacon Stations" id="2544952900" />
-  <Workshop name="Stations from beyond" id="2585543390" />
-  <Workshop name="Lua Editor" id="2983569829" />
-  <Workshop name="Beacons Extended" id="2389600483" />
-  <Workshop name="Shipwrecks Extended" id="2095211492" />
-  <Workshop name="Movable and Sellable Wrecks" id="2772926011" />
-  <Workshop name="Meaningful Upgrades" id="2183524355" />
-  <Workshop name="BetterHealthUI (Updated)" id="3231293294" />
-  <Workshop name="BetterFabricatorUI" id="2811300302" />
-  <Workshop name="Better Connection Panel UI" id="2893206628" />
-  <Workshop name="Wreck Locator" id="2767049553" />
-  <Workshop name="Soundproof Walls" id="3153737715" />
-  <Workshop name="Guns Enhanced" id="3371925534" />
-  <Workshop name="Press R to Reload" id="3413495302" />
-  <Workshop name="Press R to Reload GE Compatible Patch" id="3457759775" />
-  <Workshop name="Spicetrauma - Immersive Ammunition" id="3410901374" />
-  <Workshop name="Immersive Ammunition Boxes" id="3089776991" />
-  <Workshop name="Backpacks" id="2613901395" />
-  <Workshop name="32x Stack" id="2683570256" />
-  <Workshop name="NetworkTweaks" id="3329396988" />
-  <Workshop name="New Wrecks For Barotrauma (With sellable wrecks)" id="2184257427" />
-  <Workshop name="Performance Fix" id="2701251094" />
-  <Workshop name="Smarter Bot AI" id="3343911734" />
-  <Workshop name="Arakneas' Mod" id="3151699889" />
-  <Workshop name="Condition Bars for Interaction Labels" id="3471496395" />
-  <Workshop name="Baroverhaul" id="3279470465" />
-  <Workshop name="LeCrazyy's Talent Rework" id="3447049360" />
-  <Workshop name="ItemIO BetterMergeStack" id="3406279065" />
-  <Workshop name="From the Dark" id="3492052615" />
-  <Workshop name="BaroTraumatic" id="2518816103" />
-  <Workshop name="Fishes and Underwater Creatures Kollection" id="3504630278" />
-  <Workshop name="Improved Husks" id="2085783214" />
-  <Workshop name="Barotraumatic Creature Pack" id="2831987252" />
-  <Workshop name="Detectable Alien Minerals" id="2790632640" />
-  <Workshop name="More Level Content" id="2814493175" />
-  <Workshop name="PolyCorp Content Expansion" id="3480198793" />
-  <Workshop name="Enhanced Immersion" id="2968896556" />
-  <Workshop name="Tweaked Glowlers" id="3437714291" />
-  <Workshop name="Better Genes" id="3369216550" />
-  <Workshop name="Quick Interactions" id="3438745304" />
-  <Workshop name="BaroCraftables+" id="2764140582" />
-  <Workshop name="lobotomite's Simple Storage" id="3403224885" />
-  <Workshop name="Lua Linker" id="2852315967" />
-  <Workshop name="Project Humanize Character Overhaul" id="3241571278" />
-  <Workshop name="Endgame Reforged" id="3473887381" />
-  <Workshop name="Craftable detonator" id="2510134323" />
-  <Workshop name="Total Russian Translation (TRT)" id="2986079116" />
-  <Workshop name="Bigger Deconstructor" id="3140887913" />
-  <Workshop name="Bigger Deconstructor Barocraftables+" id="3155556648" />
-  <Workshop name="[MR] Fossil's Fiddadles" id="3265794645" />
-  <Workshop name="Vanilla Weapons Overhaul (Draconis)" id="2954637344" />
-  <Workshop name="Creaosis' Pirates and Wrecks" id="2845322558" />
-  <Workshop name="Disconnect Kill And Stun Remover" id="2658872348" />
-  <Workshop name="fast splatter decay" id="2723396291" />
-  <Workshop name="wrecks" id="2820977946" />
-  <Workshop name="Simplified Wrecks" id="3316522587" />
-  <Workshop name="Scannable wild plants (Lua) 扫描野外植物" id="3141693350" />
-  <Workshop name="Basic to Large Hardpoints" id="3494505364" />
-  <Workshop name="Immersive Sonar UI - Vanilla Sonar Edition" id="3172973041" />
-  <Workshop name="Modular Backpack" id="2964144541" />
-  <Workshop name="ID Cards Enhanced" id="3115903148" />
-  <Workshop name="Extract It!" id="2829557108" />
-  <Workshop name="Repair Key" id="2954442228" />
-  <Workshop name="Sonar Extension" id="2934770588" />
-  <Workshop name="BiggerHeavyWrench" id="2947379906" />
-  <Workshop name="Siren Extended" id="3411052222" />
-  <Workshop name="10 Junction Wires" id="2574604769" />
-  <Workshop name="More Wrecks for Europa" id="2936642208" />
-  <Workshop name="Even More Wrecks" id="3245829510" />
-  <Workshop name="Return of The Ancients" id="3340714236" />
-  <Workshop name="Better Charging &amp; Barocraftables" id="3363601855" />
-  <Workshop name="Craftable Ammo Updated" id="2399853637" />
-  <Workshop name="Vlad's Enhanced Backpacks" id="3102223378" />
+mods name="Lua-mod-pack_2-6">
+<Vanilla/>
+<Workshop name="Lua For Barotrauma" id="2559634234"/>
+<Workshop name="CsForBarotrauma" id="2795927223"/>
+<Local name="Orca 1.2"/>
+<Local name="Orca-2.0"/>
+<Local name="Typhon-2.1"/>
+<Workshop name="Item IO Framework" id="2950383008"/>
+<Workshop name="Hungry Europans" id="2954998725"/>
+<Workshop name="DynamicEuropa" id="2532991202"/>
+<Workshop name="DynamicEuropa - Large Map Size Patch" id="3233224136"/>
+<Workshop name="DynamicEuropa - Stations From Beyond Outpost Pack" id="2907491279"/>
+<Workshop name="Baroverhaul - Dynamic Europa Patch" id="3448276676"/>
+<Workshop name="Baroverhaul - Dynamic Europa SFB Patch" id="3449453992"/>
+<Workshop name="ADV Beacon Stations" id="2544952900"/>
+<Workshop name="Stations from beyond" id="2585543390"/>
+<Workshop name="Lua Editor" id="2983569829"/>
+<Workshop name="Beacons Extended" id="2389600483"/>
+<Workshop name="Shipwrecks Extended" id="2095211492"/>
+<Workshop name="Movable and Sellable Wrecks" id="2772926011"/>
+<Workshop name="Meaningful Upgrades" id="2183524355"/>
+<Workshop name="BetterHealthUI (Updated)" id="3231293294"/>
+<Workshop name="BetterFabricatorUI" id="2811300302"/>
+<Workshop name="Better Connection Panel UI" id="2893206628"/>
+<Workshop name="Wreck Locator" id="2767049553"/>
+<Workshop name="Soundproof Walls" id="3153737715"/>
+<Workshop name="Guns Enhanced" id="3371925534"/>
+<Workshop name="Press R to Reload" id="3413495302"/>
+<Workshop name="Press R to Reload GE Compatible Patch" id="3457759775"/>
+<Workshop name="Spicetrauma - Immersive Ammunition" id="3410901374"/>
+<Workshop name="Immersive Ammunition Boxes" id="3089776991"/>
+<Workshop name="Backpacks" id="2613901395"/>
+<Workshop name="32x Stack" id="2683570256"/>
+<Workshop name="NetworkTweaks" id="3329396988"/>
+<Workshop name="New Wrecks For Barotrauma (With sellable wrecks)" id="2184257427"/>
+<Workshop name="Performance Fix" id="2701251094"/>
+<Workshop name="Smarter Bot AI" id="3343911734"/>
+<Workshop name="Arakneas' Mod" id="3151699889"/>
+<Workshop name="Condition Bars for Interaction Labels" id="3471496395"/>
+<Workshop name="Baroverhaul" id="3279470465"/>
+<Workshop name="LeCrazyy's Talent Rework" id="3447049360"/>
+<Workshop name="ItemIO BetterMergeStack" id="3406279065"/>
+<Workshop name="From the Dark" id="3492052615"/>
+<Workshop name="BaroTraumatic" id="2518816103"/>
+<Workshop name="Fishes and Underwater Creatures Kollection" id="3504630278"/>
+<Workshop name="Improved Husks" id="2085783214"/>
+<Workshop name="Barotraumatic Creature Pack" id="2831987252"/>
+<Workshop name="Detectable Alien Minerals" id="2790632640"/>
+<Workshop name="More Level Content" id="2814493175"/>
+<Workshop name="PolyCorp Content Expansion" id="3480198793"/>
+<Workshop name="Enhanced Immersion" id="2968896556"/>
+<Workshop name="Tweaked Glowlers" id="3437714291"/>
+<Workshop name="Better Genes" id="3369216550"/>
+<Workshop name="Quick Interactions" id="3438745304"/>
+<Workshop name="BaroCraftables+" id="2764140582"/>
+<Workshop name="lobotomite's Simple Storage" id="3403224885"/>
+<Workshop name="Lua Linker" id="2852315967"/>
+<Workshop name="Project Humanize Character Overhaul" id="3241571278"/>
+<Workshop name="Endgame Reforged" id="3473887381"/>
+<Workshop name="Craftable detonator" id="2510134323"/>
+<Workshop name="Total Russian Translation (TRT)" id="2986079116"/>
+<Workshop name="Bigger Deconstructor" id="3140887913"/>
+<Workshop name="Bigger Deconstructor Barocraftables+" id="3155556648"/>
+<Workshop name="[MR] Fossil's Fiddadles" id="3265794645"/>
+<Workshop name="Vanilla Weapons Overhaul (Draconis)" id="2954637344"/>
+<Workshop name="Creaosis' Pirates and Wrecks" id="2845322558"/>
+<Workshop name="Disconnect Kill And Stun Remover" id="2658872348"/>
+<Workshop name="fast splatter decay" id="2723396291"/>
+<Workshop name="wrecks" id="2820977946"/>
+<Workshop name="Simplified Wrecks" id="3316522587"/>
+<Workshop name="Scannable wild plants (Lua) 扫描野外植物" id="3141693350"/>
+<Workshop name="Basic to Large Hardpoints" id="3494505364"/>
+<Workshop name="Immersive Sonar UI - Vanilla Sonar Edition" id="3172973041"/>
+<Workshop name="Modular Backpack" id="2964144541"/>
+<Workshop name="ID Cards Enhanced" id="3115903148"/>
+<Workshop name="Extract It!" id="2829557108"/>
+<Workshop name="Sonar Extension" id="2934770588"/>
+<Workshop name="BiggerHeavyWrench" id="2947379906"/>
+<Workshop name="Siren Extended" id="3411052222"/>
+<Workshop name="10 Junction Wires" id="2574604769"/>
+<Workshop name="More Wrecks for Europa" id="2936642208"/>
+<Workshop name="Even More Wrecks" id="3245829510"/>
+<Workshop name="Return of The Ancients" id="3340714236"/>
+<Workshop name="Better Charging & Barocraftables" id="3363601855"/>
+<Workshop name="Craftable Ammo Updated" id="2399853637"/>
+<Workshop name="[VH] The Iroh" id="2602920829"/>
+<Workshop name="Vlad's Enhanced Backpacks" id="3102223378"/>
+<Workshop name="Cyclops Mk-II" id="1768623483"/>
+<Workshop name="Bicksborg II" id="3227816257"/>
+<Workshop name="EK_Ilbis_Mk-II" id="3513831622"/>
+<Workshop name="SM Reagent" id="3472550114"/>
+<Workshop name="Sperm Whale" id="3011610677"/>
+<Workshop name="wellerman" id="2878786954"/>
+<Workshop name="Shiftless" id="2875438512"/>
+<Workshop name="Wyvern" id="2871896180"/>
+<Workshop name="Sardine" id="2847437196"/>
+<Workshop name="Cast Iron" id="2757150107"/>
+<Workshop name="Super Plague Rat 1.0.0" id="2638314941"/>
+<Workshop name="Flatfish" id="2963170401"/>
+<Workshop name="Don't Crash" id="3462357985"/>
+<Workshop name="Diving Sounds Overhaul" id="3214066265"/>
+<Workshop name="[DS] Skilled crew" id="2838256022"/>
 </mods>
