@@ -1,8 +1,8 @@
 Lua Mod pack for friends play
-https://steamcommunity.com/sharedfiles/filedetails/?id=3515367796
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3515367796
 
 Список правильно установленных модов можно передавать, они лежат вот тут:
-\Steam\steamapps\common\Barotrauma\ModLists
+  \Steam\steamapps\common\Barotrauma\ModLists
 
 Инструкция по установке модов на ваш клиент:
 1. Подпишитесь на все работы этой коллекции
