@@ -2,9 +2,6 @@
 <mods name="Lua_mod-pack_2-6">
   <Vanilla />
   <Workshop name="Lua For Barotrauma" id="2559634234" />
-  <Local name="Orca 1.2"/>
-  <Local name="Orca-2.0"/>
-  <Local name="Typhon-2.1"/>
   <Workshop name="CsForBarotrauma" id="2795927223" />
   <Workshop name="Item IO Framework" id="2950383008" />
   <Workshop name="Hungry Europans" id="2954998725" />
